@@ -13,6 +13,8 @@ namespace Hello_World
             Console.WriteLine("Hello World");
             var name = "Ali";
             Console.WriteLine(name);
+            string syncc = "Commit the change and sync with github";
+            Console.WriteLine(syncc);
         }
     }
 }
